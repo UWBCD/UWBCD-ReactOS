@@ -30,6 +30,7 @@ To-Dos:
 
 More software that can be included:  
 https://www.hiren.info/articles/recovery/hard-drive-data-recovery-freeware-programs  
+https://www.lifewire.com/free-data-recovery-software-tools-2622893  
 
 What we don't want to include:
 - Warez
