@@ -1,0 +1,8 @@
+Homepage:
+https://www.reactos.org/
+
+Download of e.g. the LiveCD:
+https://www.reactos.org/download
+
+ReactOS-Repository:
+https://github.com/reactos/reactos
