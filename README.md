@@ -29,7 +29,7 @@ https://www.hiren.info/articles/recovery/hard-drive-data-recovery-freeware-progr
 
 What we don't want to include:
 - Warez
-- Software, were special BootCDs exist
+- Software, were special Boot CDs exist
 
 If you want to use also a software were a Boot CD exist for (e.g. Antivirus Solution), then you can have a llok at this Guide about making a Multiboot-USB-Stick: https://github.com/LV-Crew/Multiboot-USB-Stick
 
