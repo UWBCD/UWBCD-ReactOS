@@ -20,6 +20,7 @@ We will only use software under the license OpenSource, FreeWare, ShareWare & Tr
 
 To-Dos:
 - Virtual-Machine-Image (VM) (with: https://www.virtualbox.org/) as Development Environment to test ReactOS and the Software that should be included in the Boot CD
+- Maybe 'sort-out' the underlying UBCD to get UWBCD on a CD (650MB-Limit)
 - Make the CD feature equal to the Ultimate Boot CD 4 Windows
 - Make the CD feature equal to Hiren's Boot CD
 - Branding
