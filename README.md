@@ -19,7 +19,7 @@ Maybe we make different versions with different sizes...
 We will only use software under the license OpenSource, FreeWare, ShareWare & TrailWare.
 
 To-Dos:
-- Virtual-Machine-Image (VM) (with: https://www.virtualbox.org/) as Development Environment to test ReactOS and the Software
+- Virtual-Machine-Image (VM) (with: https://www.virtualbox.org/) as Development Environment to test ReactOS and the Software that should be included in the Boot CD
 - Make the CD feature equal to the Ultimate Boot CD 4 Windows
 - Make the CD feature equal to Hiren's Boot CD
 - Branding
