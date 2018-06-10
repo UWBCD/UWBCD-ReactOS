@@ -5,9 +5,9 @@ Forum: https://groups.google.com/forum/#!forum/uwbcd
 
 Based on the Ultimate Boot CD (UBCD) http://www.ultimatebootcd.com/ and ReactOS https://www.reactos.org/.
 
-Goal is to create a Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the abandoned Ultimate Boot CD 4 Windows (UBCD4Win) and the abandoned Hiren's Boot CD. The Boot CD should be feature equal.
+Goal is to create a Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win) and the discontinued Hiren's Boot CD. The Boot CD should be feature equal.
 
-URLs to the abandoned BootCDs:  
+URLs to the discontinued BootCDs:  
 https://web.archive.org/web/20131212224924/http://www.ubcd4win.com/  
 http://www.hirensbootcd.org/  
 
