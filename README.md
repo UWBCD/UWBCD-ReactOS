@@ -5,13 +5,13 @@ Forum: https://groups.google.com/forum/#!forum/uwbcd
 
 Based on the Ultimate Boot CD (UBCD) http://www.ultimatebootcd.com/ and ReactOS https://www.reactos.org/.
 
-Goal is to create a free Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win). The Boot CD should be feature equal.
-More to the discontinued UBCD4Win: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-UBCD4Win
-Also there existed the original Hiren's Boot CD. We will use this CD too as a reference.
-More to the Hiren's Boot CD: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Hiren's
-We are also working on a own list with new software that can be included.
-For more informations look here: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Our-own
-Maybe we make different versions with different sizes...
+Goal is to create a free Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win). The Boot CD should be feature equal.  
+More to the discontinued UBCD4Win: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-UBCD4Win  
+Also there existed the original Hiren's Boot CD. We will use this CD too as a reference.  
+More to the Hiren's Boot CD: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Hiren's  
+We are also working on a own list with new software that can be included.  
+For more informations look here: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Our-own  
+Maybe we make different versions with different sizes...  
 
 To-Dos:
 - Virtual-Machine-Image (VM) (with: https://www.virtualbox.org/) as Development Environment to test ReactOS and the Software that should be included in the Boot CD
