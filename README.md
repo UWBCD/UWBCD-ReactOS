@@ -5,26 +5,20 @@ Forum: https://groups.google.com/forum/#!forum/uwbcd
 
 Based on the Ultimate Boot CD (UBCD) http://www.ultimatebootcd.com/ and ReactOS https://www.reactos.org/.
 
-Goal is to create a Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win) and the discontinued Hiren's Boot CD. The Boot CD should be feature equal.
-
-URLs to the discontinued BootCDs:  
-https://web.archive.org/web/20131212224924/http://www.ubcd4win.com/  
-http://www.hirensbootcd.org/  
-
-Feature lists of the CDs/DVDs:  
-https://web.archive.org/web/20131208175746/http://ubcd4win.com/contents.htm  
-https://www.hiren.info/pages/bootcd  
-ftp://193.192.37.3/download/distributive/HBCD/Hirens.Boot.DVD.15.2.Restored.Edition.1.1-Proteus/proteus.html  
-
+Goal is to create a free Boot CD (All-in-one-Solution) for system repair that is based on a Windows-compatible OS (ReactOS) and is a replacment for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win). The Boot CD should be feature equal.
+More to the discontinued UBCD4Win: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-UBCD4Win
+Also there existed the original Hiren's Boot CD. We will use this CD too as a reference.
+More to the Hiren's Boot CD: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Hiren's
+We are also working on a own list with new software that can be included.
+For more informations look here: https://github.com/UWBCD/UWBCD-REACTOS/wiki/Software-List:-Our-own
 Maybe we make different versions with different sizes...
-
-We will only use software under the license OpenSource, FreeWare, ShareWare & TrailWare.
 
 To-Dos:
 - Virtual-Machine-Image (VM) (with: https://www.virtualbox.org/) as Development Environment to test ReactOS and the Software that should be included in the Boot CD
 - Maybe 'sort-out' the underlying UBCD to get UWBCD on a CD (650MB-Limit)
 - Make the CD feature equal to the Ultimate Boot CD 4 Windows
 - Make the CD feature equal to Hiren's Boot CD
+- Better including of ReactOS into the UBCD
 - Branding
 - Artwork
 
@@ -33,8 +27,8 @@ https://www.hiren.info/articles/recovery/hard-drive-data-recovery-freeware-progr
 https://www.lifewire.com/free-data-recovery-software-tools-2622893  
 
 What we don't want to include:
-- Warez
-- Software, were special Boot CDs exist
+- Warez - we will only use software under the license OpenSource, FreeWare, ShareWare & TrailWare
+- Software, were special Boot CDs already exist
 
 If you want to use also a software were a Boot CD exist for (e.g. Antivirus Solution), then you can have a llok at this Guide about making a Multiboot-USB-Stick: https://github.com/LV-Crew/Multiboot-USB-Stick
 
