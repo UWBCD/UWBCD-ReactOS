@@ -19,3 +19,6 @@ https://github.com/UWBCD/UWBCD-REACTOS/wiki/Test-Cases
 
 You can also discuss with us in the Forum:  
 https://groups.google.com/forum/#!forum/uwbcd  
+
+Mailinglist for announcements:  
+https://sourceforge.net/p/uwbcd-reactos/mailman/  
