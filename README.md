@@ -13,7 +13,7 @@ More to the Hiren's Boot CD can you read [here](https://github.com/UWBCD/UWBCD-R
 We are also working on a own list with new software that can/should be included.  
 For more informations look please look [here](https://github.com/UWBCD/UWBCD-ReactOS/wiki/Software-List-1:-Our-own).  
 
-For more about our goals please read [this](https://github.com/UWBCD/UWBCD-ReactOS/wiki/1.)-Project-Goals).  
+For more about our goals please read this: https://github.com/UWBCD/UWBCD-ReactOS/wiki/1.)-Project-Goals  
 
 There is still a lot to do... [Here](https://github.com/UWBCD/UWBCD-ReactOS/wiki/To-Dos) is our To-Dos-List!  
 
