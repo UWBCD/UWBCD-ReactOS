@@ -9,7 +9,7 @@ Also there existed the original Hiren's Boot CD. We will use this CD too as a re
 More to the Hiren's Boot CD: https://github.com/UWBCD/UWBCD-ReactOS/wiki/Software-List-4:-Hiren's  
 We are also working on a own list with new software that can be included.  
 For more informations look here: https://github.com/UWBCD/UWBCD-ReactOS/wiki/Software-List-1:-Our-own  
-More about our goals: https://github.com/UWBCD/UWBCD-ReactOS/wiki/Project-Goals  
+More about our goals: https://github.com/UWBCD/UWBCD-ReactOS/wiki/1.)-Project-Goals  
 
 There is still a lot to do...  
 Here is our To-Dos-List: https://github.com/UWBCD/UWBCD-ReactOS/wiki/To-Dos  
