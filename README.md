@@ -3,8 +3,6 @@
 
 Based on the [Ultimate Boot CD (UBCD)](https://github.com/UWBCD/UWBCD-ReactOS/wiki/UBCD) and [ReactOS](https://www.reactos.org/).
 
-<br>
-
 Goal is to create a free (and mostly Open-Source) Boot CD (All-in-One-Solution) for system repair & maintenance that is based on ReactOS (a Windows-compatible OS) and is a replacement for the discontinued Ultimate Boot CD 4 Windows (UBCD4Win). The Boot CD should make UBCD4Win and similar Boot CDs unnecessary.  
 
 <br>
