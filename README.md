@@ -33,3 +33,7 @@ https://groups.google.com/forum/#!forum/uwbcd
 
 And here is the mailing list for announcements:  
 https://sourceforge.net/p/uwbcd-reactos/mailman/  
+
+## License
+
+This project is provided as is and is not affiliated with nor has it been approved by Microsoft.
